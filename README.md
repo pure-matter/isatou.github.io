@@ -1,26 +1,8 @@
-# The Plain Academic
+# Pure Matter Personal Site
 
-> The Plain Academic is a minimalist Jekyll theme, ideally designed for your academic site. This theme is a modified version of the [The Plain](https://github.com/heiswayi/the-plain).
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg)
 
-- **Demo:** https://brenov.github.io/the-plain-academic/
-
-![SCREENSHOT](img/img1.png)
-
-![SCREENSHOT](img/img2.png)
-
-![SCREENSHOT](img/img3.png)
-
-![SCREENSHOT](img/img4.png)
-
-![SCREENSHOT](img/img5.png)
-
-![SCREENSHOT](img/img6.png)
-
-![SCREENSHOT](img/img7.png)
-
-![SCREENSHOT](img/img8.png)
 
 ### On GitHub
 
